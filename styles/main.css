@@ -1,0 +1,18 @@
+.rep {
+    background-color: #4a4a4a;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 25px;
+}
+.bio-section {
+    background-color: #4a4a4a;
+}
+.committee-section {
+    display: block;
+}
+p {
+    text-align: center;
+}
+ul {
+    padding: 25px;
+}
